@@ -1,0 +1,43 @@
+#su-form {
+  width: 90%;
+  margin: auto;
+}
+
+#su-form input {
+  margin: 10px;
+  padding: 13px 10px;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 1px 1px 5px #aaa inset;
+}
+
+#su-form div input {
+  width: calc(50% - 40px);
+}
+
+#su-form > input {
+  width: 90%;
+}
+
+#su-form button {
+  margin: 20px;
+  font-size: 22px;
+  background-image: linear-gradient(45deg, cadetblue, lightblue);
+  color: white;
+  border: none;
+  padding: 5px 8px;
+  border-radius: 5px;
+  box-shadow: 1px 1px 5px #999;
+}
+
+#su-form p {
+  text-align: right;
+  font-size: 16px;
+  color: red;
+  padding: 0 15px;
+}
+
+::placeholder {
+  color: #aaa;
+  font-size: 18px;
+}
