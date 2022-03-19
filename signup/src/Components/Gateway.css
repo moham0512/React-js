@@ -1,9 +1,7 @@
-/* @font-face {
-  font-family: "bnazanin";
-  src: url("/signup/src/Components/fonts/bnazanin.woff") format("woff");
-  font-style: normal;
-  font-weight: normal;
-} */
+@font-face {
+  font-family: bnazanin;
+  src: url("fonts/bnazanin.woff");
+}
 
 #main {
   max-width: 450px;
@@ -31,7 +29,7 @@
   display: block;
   width: 120px;
   line-height: 160%;
-  /* font-family: "roya"; */
+  font-family: bnazanin;
 }
 
 /* .blur {

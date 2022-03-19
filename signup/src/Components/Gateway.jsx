@@ -12,6 +12,7 @@ class Gateway extends React.Component {
 
     this.state = {
       flag: false,
+      fontFamilyName : "bnazanin"
     };
   }
 
