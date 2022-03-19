@@ -1,0 +1,12 @@
+#del-btn {
+  width: 40%;
+  margin: 20px 5%;
+  margin: 30px;
+  font-size: 18px;
+  box-sizing: border-box;
+  padding: 10px;
+  background-color: #e22d00;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}

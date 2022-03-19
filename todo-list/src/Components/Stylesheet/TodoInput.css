@@ -1,0 +1,32 @@
+#todo-input {
+  text-align: center;
+  border: 1px solid #ddd;
+}
+
+#todo-input h1 {
+  font-size: 40px;
+}
+
+#todo-input input,
+#todo-input button {
+  box-sizing: border-box;
+  width: 90%;
+  margin: auto;
+  padding: 15px;
+  margin: 10px auto;
+  font-size: 18px;
+}
+
+#todo-input input {
+  margin-top: 30px;
+  border: 1px solid #999;
+  border-radius: 5px;
+}
+
+#todo-input button {
+  background-color: rgb(34, 155, 255);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  margin-bottom: 30px;
+}
